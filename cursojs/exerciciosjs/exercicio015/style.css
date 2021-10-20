@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(30, 61, 61);
+    text-align: center;
+}
+h1{
+    color: white;
+}
+section{
+    background-color: beige;
+    border-radius: 10px;
+    text-align: left;
+    padding: 6px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.384);
+}
+img{
+    width: 100px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
